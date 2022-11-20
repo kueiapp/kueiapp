@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=320&section=header&text=hi%20forks&fontSize=68)
+<!--
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=320&section=header&text=hi%20forks&fontSize=68)
+-->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kueiapp&show_icons=true&theme=dark)
 
@@ -11,6 +13,7 @@
 
 <!--
 **kueiapp/kueiapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
